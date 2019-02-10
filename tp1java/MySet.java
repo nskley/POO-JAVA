@@ -87,7 +87,7 @@ public  class MySet{
             a1.add(i+01);
         }
         a2=new MySet();
-		for(float i=0; i<10; i+=2){
+        for(float i=0; i<10; i+=2){
             a2.add(i+01);
         }
         //test d'egalité
