@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dda523a-ddaa-43a6-87a3-4f9ac280da70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tp1java/MySet.class" beforeDir="false" afterPath="$PROJECT_DIR$/tp1java/MySet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1java/MySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp1java/MySet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1java/MySortedSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/tp1java/MySortedSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp1java/MySortedSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp1java/MySortedSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1java/MySortedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp1java/MySortedSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3-liste-chainee/FileChainee$Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3-liste-chainee/FileChainee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3-liste-chainee/FileChainee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3-liste-chainee/IFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3-liste-chainee/IFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3-liste-chainee/IFileNonBornee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3-liste-chainee/IFileNonBornee.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,24 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tp1java/MySortedSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="96" column="42" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
-              <folding>
-                <element signature="method#add#0;class#MySortedSet#0" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tp1java/MySet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+            <state relative-caret-position="720">
+              <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -62,6 +53,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,19 +65,18 @@
             <path>
               <item name="POO" type="b2602c69:ProjectViewProjectNode" />
               <item name="POO" type="462c0819:PsiDirectoryNode" />
-              <item name="tp1java" type="462c0819:PsiDirectoryNode" />
+              <item name="tp3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="POO" type="b2602c69:ProjectViewProjectNode" />
               <item name="POO" type="462c0819:PsiDirectoryNode" />
-              <item name="tp3-liste-chainee" type="462c0819:PsiDirectoryNode" />
+              <item name="tp3" type="462c0819:PsiDirectoryNode" />
+              <item name="tp3-EnsembleTrié" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,7 +84,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549818458518" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hamza/object_oriented_programming/src/Queue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hamza/object_oriented_programming/src/Stack" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -123,16 +115,17 @@
       <workItem from="1549736675374" duration="636000" />
       <workItem from="1549737553118" duration="1069000" />
       <workItem from="1549815684197" duration="2486000" />
+      <workItem from="1549905961963" duration="280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4191000" />
+    <option name="totallyTimeSpent" value="4471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14772727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -147,7 +140,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20197044" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20197044" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="9" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -168,22 +161,23 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tp1java/MySet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tp1java/MySortedSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="165">
           <caret line="96" column="42" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
           <folding>
             <element signature="method#add#0;class#MySortedSet#0" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp3/tp3-EnsembleTrié/MySortedSet.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp1java/MySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
         </state>
       </provider>
     </entry>
